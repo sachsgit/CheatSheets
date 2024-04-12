@@ -1,4 +1,5 @@
 *.o
 *.pm.tdy
 *.bs
-\.*lock\.*
+\.~lock\.*
+

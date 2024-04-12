@@ -1,0 +1,78 @@
+Document management,New Test,CTRL + T
+Document management,New Business Component,CTRL + SHIFT + N
+Document management,New Function Library,ALT + SHIFT + N
+Document management,New Application Area,CTRL + ALT + N
+Document management,Open Test,CTRL + O
+Document management,Open Business Component,CTRL + SHIFT + O
+Document management,Open Function Library,ALT + SHIFT + O
+Document management,Open Application Area,CTRL + ALT + O
+Document management,Close,CTRL + F4
+Document management,Save,CTRL +S
+Document management,Save All,CTRL + SHIFT +S
+Solution management,Add New Test,CTRL + SHIFT + T
+Solution management,Add New Business Component,CTRL + SHIFT + B
+Solution management,Add New Application Area,CTRL + SHIFT + A
+Solution management,Add New Function Library,CTRL + SHIFT + F
+Solution management,Add Existing Test,CTRL + ALT + T
+Solution management,Add Existing Business Component,CTRL + ALT + B
+Solution management,Add Existing Application Area,CTRL + ALT + A
+Solution management,Add Existing Function Library,CTRL + ALT + F
+Solution management,Close Solution,CTRL + SHIFT + F4
+Edit,Undo,CTRL + Z
+Edit,Redo,CTRL + Y
+Edit,Copy,CTRL + C
+Edit,Paste,CTRL + V
+Edit,Select All,CTRL + A
+Edit,Check Syntax,CTRL + F7
+Edit,Comment,CTRL + M
+Edit,Uncomment,CTRL + SHIFT + M
+Edit,Indent,TAB
+Edit,Outdent,SHIFT + TAB
+Edit,Toggle Bookmark,CTRL + B
+Edit,Next Bookmark,CTRL + OemPeriod
+Edit,Previous Bookmark,CTRL + OemComma
+View,Solution Explorer,CTRL + ALT + L
+View,Toolbox,CTRL + ALT +X
+View,Properties,CTRL + ALT +P
+View,Data,CTRL + ALT +D
+View,Output,CTRL + ALT + U
+View,Errors,CTRL + ALT + E
+View,Tasks,CTRL + ALT + K
+View,Next Window,CTRL + TAB
+View,Previous Window,CTRL + SHIFT + TAB
+View,Open Help,F1
+Search,Find,CTRL + F
+Search,Replace,CTRL + H
+Search,Incremental Search,CTRL + E
+Search,Reverse Incremental Search,CTRL + SHIFT + E
+Search,Go to Matching Brace,CTRL + M
+Search,Go to Location,CTRL + G
+Search,Go to Definition,CTRL + RETURN
+Record and Run,Record,F6
+Record and Run,Run,F5
+Record and Run,Run Now,SHIFT + F5
+Record and Run,Stop (Run),F4
+Record and Run,Compile,F8
+Record and Run,Recompile,ALT + F8
+Record and Run,Stop Compilation,Pause
+Record and Run,Insert/Remove Breakpoint,F9
+Record and Run,Enable/Disable Breakpoint,CTRL + F9
+Record and Run,Step Into,F11
+Record and Run,Step Over,F10
+Record and Run,Run to Step,CTRL + F10
+Record and Run,Add to Watch,CTRL + TAB
+Record and Run,Quick Watch,CTRL + Q
+Edit tests,Step Generator,F7
+Edit tests,Insert Value in Data Sheet,CTRL + I
+Edit tests,Delete Value from Data Sheet,CTRL + K
+Edit tests,Fill Right in Data Table,CTRL + R
+Edit tests,Fill Down in Data Table,CTRL + D
+Edit tests,Recalc Cell in Data Table,F9
+Edit tests,Rename GUI test action,F2
+Edit tests,Insert Standard Checkpoints,F12
+Edit tests,Insert Output Value,CTRL + F12
+Object Repository,Open Object Repository,CTRL + R
+Object Repository,Navigate and Learn (Object Repository Manager),F6
+ALM,Open ALM Connection,CTRL + Q
+Add-in tools,Open .NET Windows Forms Spy,CTRL + SHIFT +P
+Add-in tools,Open Application on Mobile Device,CTRL + ALT +M

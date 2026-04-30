@@ -2,20 +2,20 @@
 use strict;
 use constant::boolean;
 use Data::Dump qw(dump);
-use File::Spec qw(catfile);
+use File::Spec::Functions qw(catfile);
 use OpenOffice::OODoc;
 use Text::CSV;
 use Text::Trim;
 
 use constant DEBUG => FALSE;
-my $rootDir      = File::Spec->catfile( $0,            "..", ".." );
-my $resourcesDir = File::Spec->catfile( $rootDir,      "resources" );
-my $csvFileDir   = File::Spec->catfile( $resourcesDir, "CSV Files" );
-my $oodDir       = File::Spec->catfile( $resourcesDir, "OpenOffice Documents" );
+my $rootDir      = catfile( $0,            "..", ".." );
+my $resourcesDir = catfile( $rootDir,      "resources" );
+my $csvFileDir   = catfile( $resourcesDir, "CSV Files" );
+my $oodDir       = catfile( $resourcesDir, "OpenOffice Documents" );
 
 my $inFile =
-  File::Spec->catfile( $csvFileDir, "UFT_One_Keyboard_Shortcuts.csv" );
-my $docFile = File::Spec->catfile( $oodDir, "UFT_One_Keyboard_Shortcuts.odt" );
+  catfile( $csvFileDir, "UFT_One_Keyboard_Shortcuts.csv" );
+my $docFile = catfile( $oodDir, "UFT_One_Keyboard_Shortcuts.odt" );
 
 my @records;
 my @sections;

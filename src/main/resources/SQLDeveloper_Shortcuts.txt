@@ -1,0 +1,598 @@
+<value n="context" v="oracle/ideimpl/editor/accelerators.xml"/>
+<value n="action" v="DOCUMENT_9_CMD_ID"/>
+<value n="key-1" v="alt 9"/>
+<value n="action" v="SYSTEM_MENU_CMD_ID"/>
+<value n="key-1" v="alt MINUS"/>
+<value n="action" v="TOGGLE_MAXIMIZE_RESTORE_TAB_GROUP_CMD_ID"/>
+<value n="key-1" v="control alt M"/>
+<value n="action" v="PREV_PANE_CMD_ID"/>
+<value n="key-1" v="shift F6"/>
+<value n="action" v="DOCUMENT_ASSIGN_1_CMD_ID"/>
+<value n="key-1" v="shift alt 1"/>
+<value n="action" v="Ide.PREV_EDITOR_CMD_ID"/>
+<value n="key-1" v="alt [33]"/>
+<value n="action" v="DOCUMENT_ASSIGN_5_CMD_ID"/>
+<value n="key-1" v="shift alt 5"/>
+<value n="action" v="DOCUMENT_ASSIGN_9_CMD_ID"/>
+<value n="key-1" v="shift alt 9"/>
+<value n="action" v="DOCUMENT_ASSIGN_7_CMD_ID"/>
+<value n="key-1" v="shift alt 7"/>
+<value n="action" v="DOCUMENT_6_CMD_ID"/>
+<value n="key-1" v="alt 6"/>
+<value n="action" v="DOCUMENT_7_CMD_ID"/>
+<value n="key-1" v="alt 7"/>
+<value n="action" v="DOCUMENT_5_CMD_ID"/>
+<value n="key-1" v="alt 5"/>
+<value n="action" v="DOCUMENT_ASSIGN_2_CMD_ID"/>
+<value n="key-1" v="shift alt 2"/>
+<value n="action" v="DOCUMENT_ASSIGN_3_CMD_ID"/>
+<value n="key-1" v="shift alt 3"/>
+<value n="action" v="DOCUMENT_ASSIGN_8_CMD_ID"/>
+<value n="key-1" v="shift alt 8"/>
+<value n="action" v="DOCUMENT_1_CMD_ID"/>
+<value n="key-1" v="alt 1"/>
+<value n="action" v="DOCUMENT_3_CMD_ID"/>
+<value n="key-1" v="alt 3"/>
+<value n="action" v="DOCUMENT_4_CMD_ID"/>
+<value n="key-1" v="alt 4"/>
+<value n="action" v="Ide.NEXT_EDITOR_CMD_ID"/>
+<value n="key-1" v="alt [34]"/>
+<value n="action" v="DOCUMENT_2_CMD_ID"/>
+<value n="key-1" v="alt 2"/>
+<value n="action" v="SHOW_DROPDOWN_CMD_ID"/>
+<value n="key-1" v="alt 0"/>
+<value n="action" v="DOCUMENT_ASSIGN_4_CMD_ID"/>
+<value n="key-1" v="shift alt 4"/>
+<value n="action" v="DOCUMENT_ASSIGN_6_CMD_ID"/>
+<value n="key-1" v="shift alt 6"/>
+<value n="action" v="NEXT_PANE_CMD_ID"/>
+<value n="key-1" v="F6"/>
+<value n="action" v="DOCUMENT_8_CMD_ID"/>
+<value n="key-1" v="alt 8"/>
+<value n="action" v="NAVIGATE_LRU_FILES_CMD_ID"/>
+<value n="key-1" v="control EQUALS"/>
+<value n="context" v="oracle/ide/ceditor/keymap/accelerators.xml"/>
+<value n="action" v="selection-forward"/>
+<value n="key-1" v="shift RIGHT"/>
+<value n="action" v="new-line"/>
+<value n="key-1" v="shift ENTER"/>
+<value n="action" v="caret-forward"/>
+<value n="key-1" v="RIGHT"/>
+<value n="action" v="selection-begin"/>
+<value n="key-1" v="shift control HOME"/>
+<value n="action" v="delete-line"/>
+<value n="key-1" v="shift alt D"/>
+<value n="action" v="unselect"/>
+<value n="key-1" v="control [92]"/>
+<value n="action" v="caret-next-word-start"/>
+<value n="key-1" v="control RIGHT"/>
+<value n="action" v="caret-end-line"/>
+<value n="key-1" v="END"/>
+<value n="action" v="selection-matching-brace"/>
+<value n="key-1" v="shift alt [93]"/>
+<value n="key-1" v="shift alt [91]"/>
+<value n="action" v="set-local-tabsize-2"/>
+<value n="key-1" v="control 2"/>
+<value n="action" v="reverse-tab"/>
+<value n="key-1" v="shift TAB"/>
+<value n="action" v="insert-break"/>
+<value n="key-1" v="ENTER"/>
+<value n="action" v="delete-next-word-start"/>
+<value n="key-1" v="control DELETE"/>
+<value n="key-1" v="control T"/>
+<value n="action" v="selection-down"/>
+<value n="key-1" v="shift DOWN"/>
+<value n="action" v="completion-insight"/>
+<value n="key-1" v="control SPACE"/>
+<value n="action" v="set-local-tabsize-4"/>
+<value n="key-1" v="control 4"/>
+<value n="action" v="duplicate-selection"/>
+<value n="key-1" v="shift control D"/>
+<value n="action" v="caret-begin-line"/>
+<value n="key-1" v="HOME"/>
+<value n="action" v="selection-begin-line"/>
+<value n="key-1" v="shift HOME"/>
+<value n="action" v="selection-page-up"/>
+<value n="key-1" v="shift [33]"/>
+<value n="action" v="caret-down"/>
+<value n="key-1" v="DOWN"/>
+<value n="action" v="move-up"/>
+<value n="key-1" v="shift control UP"/>
+<value n="action" v="caret-begin"/>
+<value n="key-1" v="control HOME"/>
+<value n="action" v="toggle-java-comments"/>
+<value n="key-1" v="shift control SLASH"/>
+<value n="key-1" v="control SLASH"/>
+<value n="action" v="selection-next-word-start"/>
+<value n="key-1" v="shift control RIGHT"/>
+<value n="action" v="selection-backward"/>
+<value n="key-1" v="shift LEFT"/>
+<value n="action" v="set-local-tabsize-8"/>
+<value n="key-1" v="control 8"/>
+<value n="action" v="delete-previous"/>
+<value n="key-1" v="[8]"/>
+<value n="key-1" v="shift [8]"/>
+<value n="action" v="goto-matching-brace"/>
+<value n="key-1" v="alt [91]"/>
+<value n="key-1" v="alt [93]"/>
+<value n="action" v="insert-tab"/>
+<value n="key-1" v="TAB"/>
+<value n="action" v="smart-completion-insight"/>
+<value n="key-1" v="control alt SPACE"/>
+<value n="action" v="toggle-insert-mode"/>
+<value n="key-1" v="INSERT"/>
+<value n="action" v="scroll-line-up"/>
+<value n="key-1" v="control UP"/>
+<value n="action" v="selection-previous-word-start"/>
+<value n="key-1" v="shift control LEFT"/>
+<value n="action" v="selection-up"/>
+<value n="key-1" v="shift UP"/>
+<value n="action" v="selection-end-line"/>
+<value n="key-1" v="shift END"/>
+<value n="action" v="delete-previous-word-start"/>
+<value n="key-1" v="control [8]"/>
+<value n="action" v="delete-until-eol"/>
+<value n="key-1" v="shift control Y"/>
+<value n="action" v="selection-end"/>
+<value n="key-1" v="shift control END"/>
+<value n="action" v="selection-page-down"/>
+<value n="key-1" v="shift [34]"/>
+<value n="action" v="cancel"/>
+<value n="key-1" v="ESCAPE"/>
+<value n="action" v="join-line"/>
+<value n="key-1" v="control J"/>
+<value n="action" v="caret-end"/>
+<value n="key-1" v="control END"/>
+<value n="action" v="caret-up"/>
+<value n="key-1" v="UP"/>
+<value n="action" v="page-up"/>
+<value n="key-1" v="[33]"/>
+<value n="action" v="tooltip-insight"/>
+<value n="key-1" v="shift control SPACE"/>
+<value n="action" v="page-down"/>
+<value n="key-1" v="[34]"/>
+<value n="action" v="move-down"/>
+<value n="key-1" v="shift control DOWN"/>
+<value n="action" v="caret-backward"/>
+<value n="key-1" v="LEFT"/>
+<value n="action" v="caret-previous-word-start"/>
+<value n="key-1" v="control LEFT"/>
+<value n="action" v="scroll-line-down"/>
+<value n="key-1" v="control DOWN"/>
+<value n="context" v="oracle/dbtools/raptor/plsql/accelerators.xml"/>
+<value n="action" v="PlSqlController.CompileDebug"/>
+<value n="key-1" v="shift control F8"/>
+<value n="action" v="DebugCodeEditorToggleBreakpointCommand"/>
+<value n="key-1" v="F5"/>
+<value n="action" v="PlSqlController.GotoSpecBody"/>
+<value n="key-1" v="shift control F12"/>
+<value n="action" v="PlSqlController.Compile"/>
+<value n="key-1" v="control F8"/>
+<value n="action" v="PlSqlController.PinEditor"/>
+<value n="key-1" v="shift control F1"/>
+<value n="action" v="PlSqlController.Run"/>
+<value n="key-1" v="control F10"/>
+<value n="action" v="PlSqlController.Debug"/>
+<value n="key-1" v="shift control F10"/>
+<value n="action" v="PlSqlController.ReadOnly"/>
+<value n="key-1" v="shift control F11"/>
+<value n="context" v="XmlEditingFramework"/>
+<value n="context" v="oracle/ide/thumbnail/res/accelerators.xml"/>
+<value n="action" v="oracle.ide.thumbnail.showThumbnail"/>
+<value n="key-1" v="shift control T"/>
+<value n="context" v="Versioning-Properties"/>
+<value n="action" v="oracle.jdeveloper.vcs.properties.PropertiesCommand"/>
+<value n="key-1" v="shift control O"/>
+<value n="context" v="oracle/jdevimpl/vcs/accelerators.xml"/>
+<value n="action" v="oracle.jdeveloper.vcs.properties.PropertiesCommand"/>
+<value n="key-1" v="shift control O"/>
+<value n="context" v="Git"/>
+<value n="context" v="Subversion"/>
+<value n="context" v="oracle/dmt/dataminer/accelerators.xml"/>
+<value n="context" v="oracle/ide/config/accelerators.xml"/>
+<value n="action" v="Ide.INCREMENTAL_SEARCH_FORWARD_CMD_ID"/>
+<value n="key-1" v="control E"/>
+<value n="action" v="Ide.LOG_WINDOW_CMD_ID"/>
+<value n="key-1" v="shift control L"/>
+<value n="action" v="Ide.DELETE_CMD_ID"/>
+<value n="key-1" v="DELETE"/>
+<value n="action" v="Ide.EXPAND_ALL_CMD_ID"/>
+<value n="key-1" v="shift control [93]"/>
+<value n="action" v="Ide.REDO_CMD_ID"/>
+<value n="key-1" v="shift control Z"/>
+<value n="key-1" v="shift alt [8]"/>
+<value n="key-1" v="control Y"/>
+<value n="action" v="Ide.INCREMENTAL_SEARCH_BACKWARD_CMD_ID"/>
+<value n="key-1" v="shift control E"/>
+<value n="action" v="Ide.CUT_CMD_ID"/>
+<value n="key-1" v="shift DELETE"/>
+<value n="key-1" v="control X"/>
+<value n="action" v="Ide.EXPAND_BLOCK_CMD_ID"/>
+<value n="key-1" v="control [93]"/>
+<value n="action" v="Ide.EXIT_CMD_ID"/>
+<value n="key-1" v="alt F4"/>
+<value n="action" v="ACTIVATE_LEFT_BUTTON_CMD_ID"/>
+<value n="key-1" v="shift F5"/>
+<value n="action" v="Ide.NEXT_EDITORFRAME_CMD_ID"/>
+<value n="key-1" v="control F6"/>
+<value n="key-1" v="control TAB"/>
+<value n="action" v="Ide.BACK_CMD_ID"/>
+<value n="key-1" v="alt LEFT"/>
+<value n="action" v="Ide.REPLACE_CMD_ID"/>
+<value n="key-1" v="control R"/>
+<value n="action" v="Ide.NEXT_EDITOR_CMD_ID"/>
+<value n="key-1" v="alt [34]"/>
+<value n="action" v="Ide.INSPECTOR_CMD_ID"/>
+<value n="key-1" v="shift control I"/>
+<value n="action" v="Ide.FORWARD_CMD_ID"/>
+<value n="key-1" v="alt RIGHT"/>
+<value n="action" v="Ide.CLOSE_ALL_CMD_ID"/>
+<value n="key-1" v="shift control F4"/>
+<value n="action" v="Ide.PRINT_CMD_ID"/>
+<value n="key-1" v="control P"/>
+<value n="action" v="Ide.OPEN_CMD_ID"/>
+<value n="key-1" v="control O"/>
+<value n="action" v="Ide.SELECT_ALL_CMD_ID"/>
+<value n="key-1" v="control A"/>
+<value n="action" v="Ide.CONTEXT_MENU_CMD_ID"/>
+<value n="key-1" v="shift F10"/>
+<value n="key-1" v="[525]"/>
+<value n="action" v="Ide.COPY_PATH_CMD_ID"/>
+<value n="key-1" v="shift control C"/>
+<value n="action" v="Ide.PREV_EDITOR_CMD_ID"/>
+<value n="key-1" v="alt [33]"/>
+<value n="action" v="Ide.EXPLORER_CMD_ID"/>
+<value n="key-1" v="shift control S"/>
+<value n="action" v="Ide.GOTO_LINE_NUMBER_CMD_ID"/>
+<value n="key-1" v="control G"/>
+<value n="action" v="Ide.SEARCH_BACKWARD_CMD_ID"/>
+<value n="key-1" v="shift F3"/>
+<value n="action" v="Ide.LAST_EDIT_CMD_ID"/>
+<value n="key-1" v="shift control [8]"/>
+<value n="action" v="Ide.CLOSE_NODE_CMD_ID"/>
+<value n="key-1" v="control F4"/>
+<value n="key-1" v="control W"/>
+<value n="action" v="Ide.PREV_EDITORFRAME_CMD_ID"/>
+<value n="key-1" v="shift control F6"/>
+<value n="key-1" v="shift control TAB"/>
+<value n="action" v="Ide.FIND_CMD_ID"/>
+<value n="key-1" v="control F"/>
+<value n="action" v="Ide.COLLAPSE_ALL_CMD_ID"/>
+<value n="key-1" v="shift control [91]"/>
+<value n="action" v="Ide.UNDO_CMD_ID"/>
+<value n="key-1" v="alt [8]"/>
+<value n="key-1" v="control Z"/>
+<value n="action" v="ACTIVATE_RIGHT_BUTTON_CMD_ID"/>
+<value n="key-1" v="shift alt F5"/>
+<value n="action" v="Ide.PASTE_CMD_ID"/>
+<value n="key-1" v="control V"/>
+<value n="key-1" v="shift INSERT"/>
+<value n="action" v="Ide.COLLAPSE_BLOCK_CMD_ID"/>
+<value n="key-1" v="control [91]"/>
+<value n="action" v="Ide.EXTENDED_PASTE_CMD_ID"/>
+<value n="key-1" v="shift control V"/>
+<value n="action" v="Ide.SAVE_CMD_ID"/>
+<value n="key-1" v="control S"/>
+<value n="action" v="Ide.COPY_CMD_ID"/>
+<value n="key-1" v="control C"/>
+<value n="key-1" v="control INSERT"/>
+<value n="action" v="Ide.SEARCH_AGAIN_CMD_ID"/>
+<value n="key-1" v="F3"/>
+<value n="action" v="Ide.NEXTMSG_CMD_ID"/>
+<value n="key-1" v="alt F8"/>
+<value n="action" v="Ide.QUICK_ACTION_CMD_ID"/>
+<value n="key-1" v="control alt A"/>
+<value n="action" v="Ide.PREVMSG_CMD_ID"/>
+<value n="key-1" v="alt F7"/>
+<value n="context" v="oracle/ideimpl/extension/preference/accelerators.xml"/>
+<value n="context" v="oracle/ide/ceditor/accelerators.xml"/>
+<value n="action" v="ojji.CompleteStatement"/>
+<value n="key-1" v="shift control ENTER"/>
+<value n="action" v="ojji.GotoNextMember"/>
+<value n="key-1" v="alt DOWN"/>
+<value n="action" v="CodeEditor.ToggleWhitespace"/>
+<value n="key-1" v="shift control W"/>
+<value n="action" v="CodeEditor.MultiSelectBelow"/>
+<value n="key-1" v="shift alt [34]"/>
+<value n="action" v="CodeEditor.NavigateHierarchyDown"/>
+<value n="key-1" v="control QUOTE"/>
+<value n="action" v="CodeEditor.NavigateHierarchyUp"/>
+<value n="key-1" v="shift control QUOTE"/>
+<value n="action" v="CodeEditor.MultiSelectAbove"/>
+<value n="key-1" v="shift alt [33]"/>
+<value n="action" v="ojji.GotoPreviousMember"/>
+<value n="key-1" v="alt UP"/>
+<value n="action" v="CodeEditor.NavigateHierarchy"/>
+<value n="key-1" v="control alt QUOTE"/>
+<value n="action" v="ojji.NarrowSelection"/>
+<value n="key-1" v="shift control MINUS"/>
+<value n="key-1" v="shift control [109]"/>
+<value n="action" v="CodeEditor.FocusBreadcrumbs"/>
+<value n="key-1" v="shift control PERIOD"/>
+<value n="action" v="ojji.ExpandSelection"/>
+<value n="key-1" v="shift control EQUALS"/>
+<value n="key-1" v="shift control [107]"/>
+<value n="context" v="oracle/ide/explorer/accelerators.xml"/>
+<value n="context" v="oracle/ide/ceditor/find/accelerators.xml"/>
+<value n="action" v="oracle.ide.ceditor.find.previous"/>
+<value n="key-1" v="shift control F3"/>
+<value n="action" v="oracle.ide.ceditor.find.next"/>
+<value n="key-1" v="control F3"/>
+<value n="context" v="oracle/jdeveloper/history/accelerators.xml"/>
+<value n="context" v="oracle/jdevimpl/compare/accelerators.xml"/>
+<value n="context" v="oracle/ide/gallery/accelerators.xml"/>
+<value n="action" v="ObjectGalleryCommand"/>
+<value n="key-1" v="control N"/>
+<value n="context" v="oracle/ideimpl/importexport/accelerators.xml"/>
+<value n="context" v="oracle/jdeveloper/cmd/accelerators.xml"/>
+<value n="context" v="oracle/jdeveloper/model/projectaccelerators.xml"/>
+<value n="context" v="oracle/ide/insight/accelerators.xml"/>
+<value n="action" v="AbstractDocPopupController.SHOW_DOC_POPUP_CMD"/>
+<value n="key-1" v="control D"/>
+<value n="context" v="oracle/jdevimpl/help/accelerators.xml"/>
+<value n="action" v="ContextHelp"/>
+<value n="key-1" v="shift F1"/>
+<value n="key-1" v="F1"/>
+<value n="context" v="oracle/jdevimpl/help/localaccelerators.xml"/>
+<value n="action" v="oracle.jdevimpl.help.BackwardCmd"/>
+<value n="key-1" v="control alt LEFT"/>
+<value n="action" v="oracle.jdevimpl.help.ForwardCmd"/>
+<value n="key-1" v="control alt RIGHT"/>
+<value n="context" v="oracle/ideimpl/inspector/accelerators.xml"/>
+<value n="context" v="oracle/jdeveloper/compiler/accelerators.xml"/>
+<value n="action" v="REBUILD_PROJECT_AND_DEPENDENCIES"/>
+<value n="key-1" v="alt F9"/>
+<value n="action" v="REBUILD_SELECTED"/>
+<value n="key-1" v="shift alt F9"/>
+<value n="action" v="MAKE_PROJECT_AND_DEPENDENCIES"/>
+<value n="key-1" v="control F9"/>
+<value n="action" v="MAKE_SELECTED"/>
+<value n="key-1" v="shift control F9"/>
+<value n="context" v="oracle/jdevimpl/runner/accelerators.xml"/>
+<value n="action" v="DebugProjectCommand"/>
+<value n="key-1" v="shift F9"/>
+<value n="action" v="DebugStepIntoCommand"/>
+<value n="key-1" v="F7"/>
+<value n="action" v="RunSelectionCommand"/>
+<value n="key-1" v="control F11"/>
+<value n="action" v="DebugShowIPCommand"/>
+<value n="key-1" v="alt F3"/>
+<value n="action" v="DebugStepOverCommand"/>
+<value n="key-1" v="F8"/>
+<value n="action" v="DebugCodeEditorToggleBreakpointCommand"/>
+<value n="key-1" v="F5"/>
+<value n="action" v="DebugStepOutCommand"/>
+<value n="key-1" v="shift F7"/>
+<value n="action" v="DebugResumeCommand"/>
+<value n="key-1" v="F9"/>
+<value n="action" v="RunProjectCommand"/>
+<value n="key-1" v="F11"/>
+<value n="context" v="oracle/jdevimpl/runner/debug/accelerators.xml"/>
+<value n="action" v="DebugContinueStepCommand"/>
+<value n="key-1" v="shift F8"/>
+<value n="action" v="DebugCodeEditorInspectCommand"/>
+<value n="key-1" v="control I"/>
+<value n="action" v="DebugResetCommand"/>
+<value n="key-1" v="control F2"/>
+<value n="action" v="ViewDebugBreakpointsCommand"/>
+<value n="key-1" v="shift control R"/>
+<value n="action" v="DebugRunToCursorCommand"/>
+<value n="key-1" v="F4"/>
+<value n="action" v="DebugCodeEditorWatchCommand"/>
+<value n="key-1" v="control F5"/>
+<value n="context" v="oracle/jdevimpl/runner/run/accelerators.xml"/>
+<value n="context" v="oracle/ide/status/editor/accelerators.xml"/>
+<value n="action" v="oracle.ide.status.editor.CodeAssistCommand"/>
+<value n="key-1" v="control alt ENTER"/>
+<value n="context" v="oracle/dbtools/raptor/refactor/accelerators.xml"/>
+<value n="action" v="oracle.dbtools.raptor.refactor.RefactorMenu.CASE_ID"/>
+<value n="key-1" v="alt QUOTE"/>
+<value n="action" v="oracle.dbtools.raptor.refactor.RefactorMenu.MLC_ID"/>
+<value n="key-1" v="shift alt C"/>
+<value n="context" v="oracle/dbtools/format/accelerators.xml"/>
+<value n="action" v="oracle.dbtools.format.FormatterMenu.FORMAT_POPUP_ID"/>
+<value n="key-1" v="shift control F7"/>
+<value n="action" v="oracle.dbtools.format.FormatterMenu.FORMAT_ID"/>
+<value n="key-1" v="control F7"/>
+<value n="context" v="oracle/dbtools/parser/plsql/accelerators.xml"/>
+<value n="context" v="oracle/dbtools/raptor/oviewer/base/accelerators.xml"/>
+<value n="action" v="raptor.dataeditor.insert"/>
+<value n="key-1" v="control I"/>
+<value n="action" v="raptor.dataeditor.filter.data"/>
+<value n="key-1" v="control alt F"/>
+<value n="action" v="raptor.dataeditor.rollback"/>
+<value n="key-1" v="F12"/>
+<value n="action" v="raptor.dataeditor.sort"/>
+<value n="key-1" v="control alt S"/>
+<value n="action" v="raptor.dataeditor.refresh"/>
+<value n="key-1" v="control R"/>
+<value n="action" v="raptor.dataeditor.commit"/>
+<value n="key-1" v="F11"/>
+<value n="action" v="raptor.dataeditor.delete"/>
+<value n="key-1" v="control D"/>
+<value n="context" v="oracle/dbtools/raptor/oviewer/base/accelerators2.xml"/>
+<value n="action" v="raptor.dataeditor.cell.popup"/>
+<value n="key-1" v="alt ENTER"/>
+<value n="context" v="oracle/dbtools/raptor/oviewer/accelerators.xml"/>
+<value n="action" v="popup_describe"/>
+<value n="key-1" v="shift F4"/>
+<value n="context" v="oracle/ide/bookmarks/accelerators.xml"/>
+<value n="action" v="ojb.PreviousBookmarkCommand"/>
+<value n="key-1" v="shift control Q"/>
+<value n="action" v="ojb.GotoBookmarkCommand0"/>
+<value n="key-1" v="control 0"/>
+<value n="action" v="ojb.GotoBookmarkCommand5"/>
+<value n="key-1" v="control 5"/>
+<value n="action" v="ojb.GotoBookmarkCommand"/>
+<value n="key-1" v="shift control K"/>
+<value n="action" v="ojb.ToggleBookmarkCommand6"/>
+<value n="key-1" v="shift control 6"/>
+<value n="action" v="ojb.ToggleBookmarkCommand9"/>
+<value n="key-1" v="shift control 9"/>
+<value n="action" v="ojb.GotoBookmarkCommand6"/>
+<value n="key-1" v="control 6"/>
+<value n="action" v="ojb.GotoBookmarkCommand4"/>
+<value n="key-1" v="control 4"/>
+<value n="action" v="ojb.GotoBookmarkCommand2"/>
+<value n="key-1" v="control 2"/>
+<value n="action" v="ojb.ToggleBookmarkCommand0"/>
+<value n="key-1" v="shift control 0"/>
+<value n="action" v="ojb.NextBookmarkCommand"/>
+<value n="key-1" v="control Q"/>
+<value n="action" v="ojb.GotoBookmarkCommand7"/>
+<value n="key-1" v="control 7"/>
+<value n="action" v="ojb.ToggleBookmarkCommand4"/>
+<value n="key-1" v="shift control 4"/>
+<value n="action" v="ojb.ToggleBookmarkCommand2"/>
+<value n="key-1" v="shift control 2"/>
+<value n="action" v="ojb.GotoBookmarkCommand8"/>
+<value n="key-1" v="control 8"/>
+<value n="action" v="ojb.ToggleBookmarkCommand8"/>
+<value n="key-1" v="shift control 8"/>
+<value n="action" v="ojb.ToggleBookmarkCommand7"/>
+<value n="key-1" v="shift control 7"/>
+<value n="action" v="ojb.GotoBookmarkCommand3"/>
+<value n="key-1" v="control 3"/>
+<value n="action" v="ojb.GotoBookmarkCommand1"/>
+<value n="key-1" v="control 1"/>
+<value n="action" v="ojb.ToggleBookmarkCommand3"/>
+<value n="key-1" v="shift control 3"/>
+<value n="action" v="ojb.GotoBookmarkCommand9"/>
+<value n="key-1" v="control 9"/>
+<value n="action" v="ojb.ToggleBookmarkCommand1"/>
+<value n="key-1" v="shift control 1"/>
+<value n="action" v="ojb.ToggleBookmarkCommand5"/>
+<value n="key-1" v="shift control 5"/>
+<value n="action" v="ojb.ToggleBookmarkCommand"/>
+<value n="key-1" v="control K"/>
+<value n="context" v="oracle/dbtools/worksheet/extension/accelerators2.xml"/>
+<value n="action" v="Worksheet.New"/>
+<value n="key-1" v="alt F10"/>
+<value n="context" v="oracle/dbtools/worksheet/editor/accelerators.xml"/>
+<value n="action" v="Worksheet.SQLTuningAdvisor"/>
+<value n="key-1" v="control F12"/>
+<value n="action" v="Worksheet.History"/>
+<value n="key-1" v="F8"/>
+<value n="action" v="Worksheet.Rollback"/>
+<value n="key-1" v="F12"/>
+<value n="action" v="worksheet.replace_previous_from_history"/>
+<value n="key-1" v="control UP"/>
+<value n="action" v="Worksheet.Clear"/>
+<value n="key-1" v="control D"/>
+<value n="action" v="Worksheet.Commit"/>
+<value n="key-1" v="F11"/>
+<value n="action" v="worksheet.append_next_from_history"/>
+<value n="key-1" v="shift control DOWN"/>
+<value n="action" v="worksheet.append_previous_from_history"/>
+<value n="key-1" v="shift control UP"/>
+<value n="action" v="Worksheet.Autotrace"/>
+<value n="key-1" v="F6"/>
+<value n="action" v="Worksheet.SearchExplainplan"/>
+<value n="key-1" v="control M"/>
+<value n="action" v="worksheet.replace_next_from_history"/>
+<value n="key-1" v="control DOWN"/>
+<value n="action" v="Worksheet.Run"/>
+<value n="key-1" v="control ENTER"/>
+<value n="key-1" v="F9"/>
+<value n="action" v="Worksheet.UnsharedWorksheet"/>
+<value n="key-1" v="shift control N"/>
+<value n="action" v="Worksheet.RunScript"/>
+<value n="key-1" v="F5"/>
+<value n="action" v="Worksheet.Explainplan"/>
+<value n="key-1" v="F10"/>
+<value n="context" v="oracle/dbtools/worksheet/accelerators.xml"/>
+<value n="action" v="Ide.SAVE_CMD_ID"/>
+<value n="key-1" v="control S"/>
+<value n="action" v="Results.SQL"/>
+<value n="key-1" v="control Q"/>
+<value n="action" v="Ide.DELETE_CMD_ID"/>
+<value n="key-1" v="shift control D"/>
+<value n="action" v="Ide.PRINT_CMD_ID"/>
+<value n="key-1" v="control P"/>
+<value n="action" v="Ide.FREEZE_CMD_ID"/>
+<value n="key-1" v="control I"/>
+<value n="action" v="Ide.REFRESH_CMD_ID"/>
+<value n="key-1" v="control R"/>
+<value n="action" v="Results.DeleteGridSettings"/>
+<value n="key-1" v="shift control G"/>
+<value n="context" v="oracle/dbtools/worksheet/commands/dbmsoutput/accelerators.xml"/>
+<value n="action" v="Output.Save"/>
+<value n="key-1" v="control S"/>
+<value n="action" v="Output.Print"/>
+<value n="key-1" v="control P"/>
+<value n="action" v="Output.New"/>
+<value n="key-1" v="control N"/>
+<value n="action" v="Output.Clear"/>
+<value n="key-1" v="control D"/>
+<value n="context" v="oracle/ideimpl/palette2/accelerators.xml"/>
+<value n="action" v="Palette2.viewPalette"/>
+<value n="key-1" v="shift control P"/>
+<value n="context" v="oracle/diagram/res/accelerators.xml"/>
+<value n="context" v="oracle/dbtools/raptor/standalone/accelerators.xml"/>
+<value n="action" v="SwitchActiveView"/>
+<value n="key-1" v="control alt V"/>
+<value n="context" v="oracle/jdevimpl/style/accelerators.xml"/>
+<value n="action" v="CodeEditor.Format"/>
+<value n="key-1" v="shift alt F"/>
+<value n="key-1" v="control alt L"/>
+<value n="context" v="oracle/ideimpl/ceditor/tint/accelerators.xml"/>
+<value n="context" v="oracle/jdevimpl/vcs/git/accelerators.xml"/>
+<value n="context" v="oracle/jdevimpl/help/startpageaccelerators.xml"/>
+<value n="context" v="oracle/ide/ceditor/macrorecorder/accelerators.xml"/>
+<value n="context" v="oracle/ideimpl/searchbar/accelerators.xml"/>
+<value n="action" v="oracle.ideimpl.searchbar.quicksearch"/>
+<value n="key-1" v="control [192]"/>
+<value n="context" v="oracle/jdevimpl/vcs/svn/accelerators.xml"/>
+<value n="context" v="/oracle/dbtools/raptor/timesten/accelerators.xml"/>
+<value n="action" v="Worksheet.TimesTenIndexAdvisor"/>
+<value n="key-1" v="shift control X"/>
+<value n="context" v="oracle/ideimpl/patch/accelerators.xml"/>
+<value n="context" v="oracle/dbtools/raptor/dba/navigator/accelerators.xml"/>
+<value n="action" v="DbaNavigator.TOGGLE_INPUT"/>
+<value n="key-1" v="control L"/>
+<value n="action" v="DbaMetrics.MOUSE_PAN_ZOOM"/>
+<value n="key-1" v="control M"/>
+<value n="action" v="DbaNavigator.SAVE_TO_FILE"/>
+<value n="key-1" v="control S"/>
+<value n="action" v="DbaNavigator.OPEN_IN_BROWSER"/>
+<value n="key-1" v="control O"/>
+<value n="action" v="DbaMetrics.SAVE_XML"/>
+<value n="key-1" v="control X"/>
+<value n="action" v="DbaNavigator.GENERATE_REPORT"/>
+<value n="key-1" v="control G"/>
+<value n="action" v="DbaMetrics.PAN_RIGHT"/>
+<value n="key-1" v="RIGHT"/>
+<value n="action" v="DbaMetrics.PAN_DOWN"/>
+<value n="key-1" v="DOWN"/>
+<value n="action" v="DbaMetrics.SAVE_REPORT"/>
+<value n="key-1" v="control R"/>
+<value n="action" v="DbaMetrics.ZOOM_IN"/>
+<value n="key-1" v="control RIGHT"/>
+<value n="action" v="DbaMetrics.PAN_LEFT"/>
+<value n="key-1" v="LEFT"/>
+<value n="action" v="DbaMetrics.ZOOM_OUT"/>
+<value n="key-1" v="control LEFT"/>
+<value n="action" v="DbaMetrics.PAN_UP"/>
+<value n="key-1" v="UP"/>
+<value n="action" v="DbaNavigator.SHOW_SQL"/>
+<value n="key-1" v="control Q"/>
+<value n="action" v="DbaMetrics.ZOOM_TO_FIT"/>
+<value n="key-1" v="control HOME"/>
+<value n="context" v="oracle/dbtools/spatial/accelerators.xml"/>
+<value n="action" v="spatial_zoom_fit"/>
+<value n="key-1" v="control F"/>
+<value n="action" v="spatial_zoom_in"/>
+<value n="key-1" v="control I"/>
+<value n="action" v="spatial_new"/>
+<value n="key-1" v="control T"/>
+<value n="action" v="spatial_delete_query_layer"/>
+<value n="key-1" v="control D"/>
+<value n="action" v="spatial_refresh_query_layer"/>
+<value n="key-1" v="control R"/>
+<value n="action" v="spatial_zoom_out"/>
+<value n="key-1" v="control O"/>
+<value n="action" v="spatial_add_query_layer"/>
+<value n="key-1" v="control N"/>
+<value n="action" v="spatial_zoom_marquee"/>
+<value n="key-1" v="control M"/>
+<value n="context" v="ToolManager"/>
